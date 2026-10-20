@@ -53,8 +53,8 @@ def main():
     if args.cmd=="track":
         t=next((x for x in tracks if x["id"]==args.id.zfill(2)),None)
         if not t: raise SystemExit("Unknown track")
-        print(t["id"],t["title"],"\\nSTORY:",t["story_problem"],"\\nMUSIC:",t["sonic_test"])
+        print(t["id"],t["title"],"\nSTORY:",t["story_problem"],"\nMUSIC:",t["sonic_test"])
         for code in t["focus"]:
             n=next(x for x in tree["nodes"] if x["id"]==code)
-            print("\\n",code,n["name"],"\\nDRILL:",n["exercise"],"\\nPROOF:",n["evidence_test"])
+            print("\n",code,n["name"],"\nDRILL:",n["exercise"],"\nPROOF:",n["evidence_test"])
 if __name__=="__main__": main()
