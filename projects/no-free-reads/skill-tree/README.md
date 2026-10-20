@@ -4,7 +4,7 @@ Status: PROPOSED skill curriculum, no released or canonical album modifications 
 
 ## Six-branch map
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
   G[Earned Expression] --> BF[Battlefield Literacy]
   G --> LX[Lyrical Acrobatics]
@@ -18,7 +18,7 @@ flowchart TD
   NI --> R[Authority Reversal]
   SN --> M[Motif Transformation]
   EL --> H[Human Approval]
-\`\`\`
+```
 
 The tree data in skills.json specifies all 26 skills, tier, real prerequisites, bounded exercise and required evidence. Skill seed status does not claim achieved artistic competency. Progression: SEED → PRACTICED → LISTENING_VALIDATED → HUMAN_APPROVED. Listening-validated requires actual supplied/heard audio. Human approval is track-scoped and never automatic.
 
