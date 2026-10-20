@@ -1,0 +1,158 @@
+[
+  {
+    "id": "01",
+    "title": "TWO TAPS",
+    "focus": [
+      "BF01",
+      "EL01"
+    ],
+    "story_problem": "Ignored cue becomes future question",
+    "sonic_test": "Dry metallic sound motif",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "02",
+    "title": "AIM-RICH, CONTEXT-POOR",
+    "focus": [
+      "LX01",
+      "MP02"
+    ],
+    "story_problem": "Overconfident bad push teaches constraint",
+    "sonic_test": "Speed meets stop-start silence",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "03",
+    "title": "NO FREE READS",
+    "focus": [
+      "BF02",
+      "MP03"
+    ],
+    "story_problem": "Credible foresight from loadout and constraints",
+    "sonic_test": "Half-time swagger plus fast triplets",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "04",
+    "title": "FOOTSTEPS IN THE FEEDBACK",
+    "focus": [
+      "BF03",
+      "SN01"
+    ],
+    "story_problem": "Sound may signify competing stories",
+    "sonic_test": "Foley becomes rhythmic punctuation",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "05",
+    "title": "THREE BRAINS, ONE COMMS",
+    "focus": [
+      "NI03",
+      "NI01"
+    ],
+    "story_problem": "Three real partial observations integrate",
+    "sonic_test": "Voice counterpoint",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "06",
+    "title": "FULL WHERE?",
+    "focus": [
+      "LX05",
+      "SN02"
+    ],
+    "story_problem": "Teammates wipe opposition as coach asks what they conceded for",
+    "sonic_test": "Decoy silence and 808 reveal",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "07",
+    "title": "STATIC BETWEEN ROUNDS",
+    "focus": [
+      "NI02",
+      "SN03"
+    ],
+    "story_problem": "A teammate can grow without joyless competition",
+    "sonic_test": "Warm vulnerable crooning",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "08",
+    "title": "AFTER ACTION, BEFORE REACTION",
+    "focus": [
+      "LX03",
+      "EL02"
+    ],
+    "story_problem": "Can see versus concede is a creative branch",
+    "sonic_test": "Test articulation and transcription",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "09",
+    "title": "PASS THE PING",
+    "focus": [
+      "NI02",
+      "NI03"
+    ],
+    "story_problem": "Learner's observation gets listened to",
+    "sonic_test": "Refrain passes lead between voices",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "10",
+    "title": "THIRD DOOR THEORY",
+    "focus": [
+      "LX04",
+      "EL03"
+    ],
+    "story_problem": "Two taps and blue ping pay off causally",
+    "sonic_test": "Motif becomes percussion pickup",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "11",
+    "title": "I DIDN'T. SHE DID.",
+    "focus": [
+      "NI04",
+      "MP04"
+    ],
+    "story_problem": "Mentor earns authority by crediting mentee",
+    "sonic_test": "Elastic conversational hook",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  },
+  {
+    "id": "12",
+    "title": "THE MAP REMEMBERS",
+    "focus": [
+      "BF04",
+      "SN04"
+    ],
+    "story_problem": "No final omniscience; knowledge circulates",
+    "sonic_test": "Old motif acquires new harmonic meaning",
+    "canon_status": "UNAPPROVED",
+    "game_mechanics_status": "VERSION_CHECK_NEEDED",
+    "audio_status": "UNTESTED"
+  }
+]

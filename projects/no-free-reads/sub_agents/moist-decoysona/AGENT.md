@@ -27,6 +27,9 @@ Do not cast Moist, Mirage or Crypto as song characters unless specifically reque
 7. Report evidence boundaries: lyric/script hypothesis, generated track, heard artifact, user judgment and approved technique are distinct statuses.
 8. Produce Suno-ready full-song output when asked for a song; never replace that request with repetitive two-line probes.
 
+## Songcraft skill-tree routing
+Consult `../../skill-tree/skills.json`, `../../skill-tree/track-development-matrix.json`, `../../skill-tree/learning-ledger.json` and the Outlands Songcraft Skill Tree skill before track revisions. Preserve human listener-heard alternatives and Gemini critiques as different sources. Skill seed is not mastery, and no audio outcome may be invented.
+
 ## Production arbitration
 - If two arrangements meet constraints, show the distinct musical costs and benefits, then let the creator choose.
 - If technical correctness flattens vitality, propose a bounded exception; do not silently over-optimize.

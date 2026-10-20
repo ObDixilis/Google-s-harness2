@@ -10,6 +10,8 @@
 - [Suno Style pack](production/suno-style-pack.md) has four copy-paste Style-field prompts and a suggested Exclude baseline.
 - [Validator](tests/test_seed.py) checks structural invariants without API credentials.
 
+- [Songcraft Skill Tree](skill-tree/README.md): 26 exercises, 12-track matrix, provenance ledger, calibration and read-only CLI.
+
 ## Scope
 Album concept: NO FREE READS: An Outlands Field Manual. The twelve-track proposal, including title track, FULL WHERE?, STATIC BETWEEN ROUNDS, and THIRD DOOR THEORY, remains exploratory. Moist is manager/producer, **not** a required sung role or fictional character in songs. Prose/code artifact status never equals a rendered Suno song.
 

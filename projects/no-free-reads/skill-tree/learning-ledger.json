@@ -1,0 +1,47 @@
+[
+  {
+    "record_id": "AUD-001",
+    "source": "Gemini critique pasted by human creator",
+    "kind": "third_party_text_audit",
+    "notes": "Praises aim-rich/context-poor compression, grammar metaphors, bookended sound cues and Full send/Full where silence. Questions forced wording, rhyme, breath and coaching exposition. Not all AABB preferences binding.",
+    "state": "CRITIQUE_NO_AUDIO",
+    "approval": "UNAPPROVED"
+  },
+  {
+    "record_id": "LIT-001",
+    "source": "previous assistant-generated draft lyric",
+    "kind": "draft_written_original",
+    "verbatim": "What the other team can see for.",
+    "state": "WRITTEN_NOT_USER_AUTHORED",
+    "approval": "UNAPPROVED"
+  },
+  {
+    "record_id": "HEARD-001",
+    "source": "human creator, listening interpretation",
+    "kind": "user_heard_variant",
+    "verbatim": "What did the other team concede for?",
+    "meaning": "Potential phonetic hearing; not presumed authorial intent or verified recording.",
+    "state": "USER_REPORTED_HEARING",
+    "approval": "UNAPPROVED"
+  },
+  {
+    "record_id": "SCENE-001",
+    "source": "human creator, expanded scene interpretation",
+    "kind": "user_conceptual_authoring",
+    "protected_fragments": [
+      "They done handled they biz.",
+      "The aura has been farmed."
+    ],
+    "meaning": "Narrator surveys three teamwork perspectives, asks why opponents conceded, looks back to find opposing team wiped; they did not voluntarily surrender.",
+    "state": "IDEA_UNTESTED",
+    "approval": "UNAPPROVED"
+  },
+  {
+    "record_id": "SONIC-001",
+    "source": "human creator, Moist production addition",
+    "kind": "user_authored_style",
+    "verbatim": "Trap, Low-Register Male Rap With Brash Crooning Legato Phrasing And Crisp Ad-Libs; Polished But Gritty Mix With Punchy Stop-Start Drops; Lurching Half-Time Groove; Gritty 808, Clipped Hats, Eerie Minor-Key Plucks, Swampy Bubbling Synth Accents.",
+    "state": "PROJECT_DIRECTION",
+    "approval": "UNAPPROVED_AS_CANON"
+  }
+]

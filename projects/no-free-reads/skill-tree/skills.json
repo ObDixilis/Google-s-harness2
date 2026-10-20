@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "project": "NO FREE READS",
+  "status": "PROVISIONAL_CRAFT_TOOL",
+  "policy": "Human taste and explicit acceptance govern; progress is evidence, not arbitrary XP.",
+  "progression": [
+    "SEED",
+    "PRACTICED",
+    "LISTENING_VALIDATED",
+    "HUMAN_APPROVED"
+  ],
+  "branches": [
+    {
+      "id": "BF",
+      "name": "Battlefield Literacy",
+      "goal": "Gameplay constraints, causality, earned experience"
+    },
+    {
+      "id": "LX",
+      "name": "Lyrical Acrobatics",
+      "goal": "Compression, metaphor, mishearing, callback, twist"
+    },
+    {
+      "id": "MP",
+      "name": "Mouth and Pocket",
+      "goal": "Stress, breath, triplets, rhyme elasticity, silence"
+    },
+    {
+      "id": "NI",
+      "name": "Narrative Intelligence",
+      "goal": "Voices, coaching, group competence, reversal"
+    },
+    {
+      "id": "SN",
+      "name": "Sonic Misdirection",
+      "goal": "Album sound, feint drops, legato, motifs"
+    },
+    {
+      "id": "EL",
+      "name": "Evidence and Learning",
+      "goal": "Accurate listening labels, A/B, creator authority"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "BF01",
+      "branch": "BF",
+      "tier": 1,
+      "name": "Source and scene custody",
+      "requires": [],
+      "exercise": "Separate authored draft, outside critique, and listener perception.",
+      "evidence_test": "Source snapshots remain verbatim with origin labels.",
+      "reference_track": "01",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "BF02",
+      "branch": "BF",
+      "tier": 1,
+      "name": "Full scene loadout",
+      "requires": [
+        "BF01"
+      ],
+      "exercise": "Define trio POV, map/POI/mode, two weapons, ammo, heals, armor, ordnance, abilities, ring and exit.",
+      "evidence_test": "At least three loadout details produce actual tactical consequences.",
+      "reference_track": "03",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "BF03",
+      "branch": "BF",
+      "tier": 2,
+      "name": "Tactical causal chain",
+      "requires": [
+        "BF02"
+      ],
+      "exercise": "Trace cue, competing readings, decision, counterplay, cost and result.",
+      "evidence_test": "What occurred is plausible and understandable from action.",
+      "reference_track": "10",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "BF04",
+      "branch": "BF",
+      "tier": 3,
+      "name": "Accumulated expressive wisdom",
+      "requires": [
+        "BF03"
+      ],
+      "exercise": "Reframe an old failure as a present skill and teammate-led insight.",
+      "evidence_test": "Growth is demonstrated, not asserted as invincibility.",
+      "reference_track": "12",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "LX01",
+      "branch": "LX",
+      "tier": 1,
+      "name": "Semantic compression",
+      "requires": [
+        "BF01"
+      ],
+      "exercise": "Express a specific flaw through a concise contrast then demonstrate it.",
+      "evidence_test": "Punchline conveys more than a generic boast.",
+      "reference_track": "02",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "LX02",
+      "branch": "LX",
+      "tier": 2,
+      "name": "Extended metaphor grammar",
+      "requires": [
+        "LX01"
+      ],
+      "exercise": "Map three grammar, finance or spatial terms onto distinct actions.",
+      "evidence_test": "Every metaphor makes an action more intelligible.",
+      "reference_track": "08",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "LX03",
+      "branch": "LX",
+      "tier": 2,
+      "name": "Productive phonetic ambiguity",
+      "requires": [
+        "LX01"
+      ],
+      "exercise": "Preserve written can see and listener-heard concede as separate readings.",
+      "evidence_test": "New meaning explored without altering original words.",
+      "reference_track": "08",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "LX04",
+      "branch": "LX",
+      "tier": 3,
+      "name": "Foreshadowing and delayed payoff",
+      "requires": [
+        "LX02",
+        "BF03"
+      ],
+      "exercise": "Plant tiny cues early and alter their meaning later.",
+      "evidence_test": "Callback changes understanding instead of repeating sound.",
+      "reference_track": "10",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "LX05",
+      "branch": "LX",
+      "tier": 4,
+      "name": "Ironic recontextualization",
+      "requires": [
+        "LX03",
+        "LX04"
+      ],
+      "exercise": "Let a coach ask why enemies conceded, only to discover squad already wiped them.",
+      "evidence_test": "Reveal is funny through new information and timing, not surrender.",
+      "reference_track": "06",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "MP01",
+      "branch": "MP",
+      "tier": 1,
+      "name": "Vocal stress and mouthfeel",
+      "requires": [
+        "LX01"
+      ],
+      "exercise": "Mark accented syllables, plosives and connected-speech variants.",
+      "evidence_test": "Speak naturally and articulate important words.",
+      "reference_track": "03",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "MP02",
+      "branch": "MP",
+      "tier": 2,
+      "name": "Breath and subdivisions",
+      "requires": [
+        "MP01"
+      ],
+      "exercise": "Place longer text across beat groups with real resets.",
+      "evidence_test": "No unsustainable one-bar claims from syllable counts alone.",
+      "reference_track": "02",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "MP03",
+      "branch": "MP",
+      "tier": 3,
+      "name": "Laid-back to rapid pocket",
+      "requires": [
+        "MP02"
+      ],
+      "exercise": "Contrast loose swagger, triplet pickups and compact fast bursts.",
+      "evidence_test": "Speed expresses a changing decision while lyrics remain clear.",
+      "reference_track": "03",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "MP04",
+      "branch": "MP",
+      "tier": 3,
+      "name": "Functional rhyme elasticity",
+      "requires": [
+        "MP01",
+        "LX02"
+      ],
+      "exercise": "Compare perfect rhyme, slant and syntactically clean endings.",
+      "evidence_test": "Meaning and musicality outrank blanket AABB enforcement.",
+      "reference_track": "08",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "MP05",
+      "branch": "MP",
+      "tier": 4,
+      "name": "Punchline silence",
+      "requires": [
+        "MP02",
+        "LX04"
+      ],
+      "exercise": "Try drop-and-return timing around a delayed reveal.",
+      "evidence_test": "Rest makes punchline perceptible without losing pulse.",
+      "reference_track": "06",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "NI01",
+      "branch": "NI",
+      "tier": 1,
+      "name": "Distinct POV voices",
+      "requires": [
+        "BF02"
+      ],
+      "exercise": "Give narrator and each squadmate a unique tactical goal and diction.",
+      "evidence_test": "Voices recognizable by decision rather than name tags.",
+      "reference_track": "05",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "NI02",
+      "branch": "NI",
+      "tier": 2,
+      "name": "Coach through comms",
+      "requires": [
+        "NI01"
+      ],
+      "exercise": "Replace a leadership lecture with a question and an executed response.",
+      "evidence_test": "Learning shown through tactical action, not sermon.",
+      "reference_track": "09",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "NI03",
+      "branch": "NI",
+      "tier": 3,
+      "name": "Distributed team competence",
+      "requires": [
+        "NI02",
+        "BF03"
+      ],
+      "exercise": "Give teammates valid partial reads that combine into a win.",
+      "evidence_test": "No single narrator is all-knowing.",
+      "reference_track": "05",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "NI04",
+      "branch": "NI",
+      "tier": 4,
+      "name": "Mentor authority reversal",
+      "requires": [
+        "NI03",
+        "LX04",
+        "BF04"
+      ],
+      "exercise": "Let mentee identify the decisive read first.",
+      "evidence_test": "Narrator yields credit in a credible dramatic moment.",
+      "reference_track": "11",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "SN01",
+      "branch": "SN",
+      "tier": 1,
+      "name": "Sound signature with variation",
+      "requires": [
+        "MP01"
+      ],
+      "exercise": "Distinguish core Southern trap/drill identity from track-specific sonic treatments.",
+      "evidence_test": "Tracks belong together without identical production prompts.",
+      "reference_track": "03",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "SN02",
+      "branch": "SN",
+      "tier": 2,
+      "name": "Moist decoy drop",
+      "requires": [
+        "SN01",
+        "MP05"
+      ],
+      "exercise": "Build feint, silence, unexpected lyric, returning gliding 808.",
+      "evidence_test": "Drop solves story or humor, not arbitrary bar-count fashion.",
+      "reference_track": "06",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "SN03",
+      "branch": "SN",
+      "tier": 3,
+      "name": "Crooning as consequence",
+      "requires": [
+        "SN01",
+        "MP03",
+        "NI01"
+      ],
+      "exercise": "Place warm brash legato against clipped rap at an emotional pivot.",
+      "evidence_test": "Sung shift earns meaning and preserves diction.",
+      "reference_track": "07",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "SN04",
+      "branch": "SN",
+      "tier": 4,
+      "name": "Cross-track motif evolution",
+      "requires": [
+        "SN02",
+        "NI04"
+      ],
+      "exercise": "Reharmonize or rhythmically shift two taps and blue ping in final tracks.",
+      "evidence_test": "Listeners discover changed significance.",
+      "reference_track": "12",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "EL01",
+      "branch": "EL",
+      "tier": 1,
+      "name": "Evidence state honesty",
+      "requires": [
+        "BF01"
+      ],
+      "exercise": "Distinguish written draft, proposed prompt, audio render, listening report, approved material.",
+      "evidence_test": "Never treat lyrics-on-page as heard audio.",
+      "reference_track": "01",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "EL02",
+      "branch": "EL",
+      "tier": 2,
+      "name": "Heard Differently ledger",
+      "requires": [
+        "LX03",
+        "EL01"
+      ],
+      "exercise": "Capture exact user-heard words, original and their interpretations.",
+      "evidence_test": "No silent overwrite; unexpected meaning preserved.",
+      "reference_track": "08",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "EL03",
+      "branch": "EL",
+      "tier": 3,
+      "name": "Controlled A/B",
+      "requires": [
+        "EL01",
+        "MP02",
+        "SN01"
+      ],
+      "exercise": "Change one test dimension; record model/settings and generation variation.",
+      "evidence_test": "Comparisons disclose confounds and actual listening observations.",
+      "reference_track": "10",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    },
+    {
+      "id": "EL04",
+      "branch": "EL",
+      "tier": 4,
+      "name": "Human artistic approval",
+      "requires": [
+        "EL03",
+        "NI04"
+      ],
+      "exercise": "Present alternative branches and supported evidence before final decision.",
+      "evidence_test": "Explicit creator approval only, no auto-canon or metrics leak.",
+      "reference_track": "12",
+      "status": "SEED",
+      "audio_evidence": "NONE"
+    }
+  ]
+}

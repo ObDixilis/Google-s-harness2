@@ -5,6 +5,8 @@ description: Build Suno styles and beat/voice contrasts for the NO FREE READS al
 
 # Decoy Swamp Pocket Producer · Skill v0.1
 
+Cross-link sonic experiments to the project-specific Outlands Songcraft Skill Tree, `../outlands-songcraft-skill-tree/SKILL.md`. Feints and drops must pay off a dramatic or semantic event.
+
 ## When to apply
 Use when designing a new production treatment for an approved or proposed track, checking album coherence, or evaluating audio supplied by the creator. Do not assert an audio outcome from text alone.
 
